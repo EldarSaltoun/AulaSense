@@ -61,11 +61,11 @@ Each upload is an array of objects:
 
 ### 📷 First Prototype - Exposed Hardware
 
-![Hardware Picture 1](WhatsApp%20Image%202025-09-08%20at%2011.53.40_1dadab79.jpg)
+![Hardware Picture 1](images/AulaSenseMark1.jpg)
 
 ### 📷 Final Prototype - Soldered & Packaged with 3D Printed Case
 
-![Hardware Picture 2](./AulaSense mark2.jpg) 
+![Hardware Picture 2](images/AulaSenseMark2.jpg) 
 
 ---
 
