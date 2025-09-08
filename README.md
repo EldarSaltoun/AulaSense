@@ -65,7 +65,7 @@ Each upload is an array of objects:
 
 ### 📷 Final Prototype - Soldered & Packaged with 3D Printed Case
 
-![Hardware Picture 2](AulaSense mark2.jpg)
+![Hardware Picture 2](AulaSense mark2.jpg) 
 
 ---
 
