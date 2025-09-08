@@ -1,4 +1,4 @@
-# Room AC/Light Usage Monitor (ESP32)
+# AulaSense - Room AC/Light Usage Monitor (ESP32)
 
 A tiny, low-cost IoT node that senses **ambient temperature**, **room light level**, and **motion**, timestamps readings in local Israel time (IST/IDT), and **securely uploads** buffered samples over Wi-Fi for a simple building-usage dashboard.
 
