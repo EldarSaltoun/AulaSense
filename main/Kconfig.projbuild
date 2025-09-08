@@ -1,0 +1,18 @@
+menu "App Config"
+    config WIFI_SSID
+        string "WiFi SSID"
+        default "YourSSID"
+
+    config WIFI_PASSWORD
+        string "WiFi Password"
+        default "YourPassword"
+
+    config APP_TZ_STRING
+        string "POSIX TZ string (e.g. EET-2EEST,M3.5.0/3,M10.5.0/4)"
+        default "UTC0"
+        help
+            POSIX TZ. Examples:
+            - UTC0
+            - PST8PDT,M3.2.0/2,M11.1.0/2
+            - EET-2EEST,M3.5.0/3,M10.5.0/4
+endmenu

@@ -1,0 +1,22 @@
+﻿idf_component_register(
+    SRCS
+        "app_main.c"
+        "sensors.c"
+        "time_sync.c"
+        "wifi.c"
+        "uploader.c"
+    INCLUDE_DIRS
+        "."
+    REQUIRES
+        nvs_flash
+        esp_wifi
+        esp_event
+        esp_netif
+        lwip
+        driver
+        esp_timer
+        esp_http_client
+        json
+        esp-tls
+        mbedtls
+)
