@@ -65,7 +65,7 @@ Each upload is an array of objects:
 
 ### 📷 Final Prototype - Soldered & Packaged with 3D Printed Case
 
-![Hardware Picture 2](WhatsApp%20Image%202025-09-08%20at%2011.53.10_bc15eb28.jpg)
+![Hardware Picture 2](AulaSense mark2.jpg)
 
 ---
 
